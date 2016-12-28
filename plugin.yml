@@ -1,0 +1,6 @@
+name: TelePad
+main: com.thespuff.plugins.telepad.TelePad
+author: nathanaelps
+version: 1.11.2a
+commands:
+permissions:
